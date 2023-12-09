@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhkayoum&label=Profile%20views&color=0e75b6&style=flat" alt="hhkayoum" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Javascript,react**
 
 - 📫 How to reach me **kayoum096@gmail.com**
 
