@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Javascript,react**
 
+- 🔭 I’m trying **To develop my skills**
+
 - 📫 How to reach me **kayoum096@gmail.com**
 
 ## 🌐 Socials:
