@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/tBNPSkb/Untitled-design.png" alt="" style="width:100%;">
 <h1 align="center">Hi 👋, I'm Md Kaium Ikbal</h1>
-<p align="center">Passionate frontend developer specializing in React, Express, MongoDB, Firebase, and Tailwind CSS. Proficient in configuring MongoDB and Firebase for robust database management and authentication. Prefers seamless deployment on platforms like Netlify or Vercel. Prioritizes secure Firebase authentication and enhances UI with Tailwind CSS customization for responsive design. Let's build something beautiful together!</p>
+<p align="center">Passionate about React, Express, MongoDB, Firebase, and Tailwind CSS. Proficient in configuring databases and Firebase for robust authentication. Exploring deployment on Netlify or Vercel. Prioritizing secure Firebase authentication and crafting responsive designs with Tailwind CSS. Let's work, learn, and build together!!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhkayoum&label=Profile%20views&color=0e75b6&style=flat" alt="hhkayoum" /> </p>
 
